@@ -1,6 +1,8 @@
 body{
     background-color: rgb(236, 236, 226);
     color: black;
+    margin: 0px;
+    padding: 0px;
 }
 
 #navbar{
@@ -9,6 +11,10 @@ body{
     background-color:black;
     color: rgb(236, 236, 226);
     display: flex;
+}
+
+.imagem{
+    width: 80px;
 }
 
 #h1 {
