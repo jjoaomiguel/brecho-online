@@ -56,11 +56,10 @@ body{
 
 .carousel{
     display: flex;
-    
     overflow: auto; 
     scroll-snap-type: x mandatory;
     width: 20%;
-    height: 20%;
+    height: 17%;
 }
 
 .calça{
