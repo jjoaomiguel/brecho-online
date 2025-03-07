@@ -2,7 +2,6 @@ body{
     margin: 0px;
     padding: 0px;
     background-color:rgb(255, 252, 252);
-    color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     color: black;
@@ -11,9 +10,12 @@ body{
 #navbar{
     margin: 15px;
     padding: 15px;
+    border: 0PX;
     background-color:rgb(182, 132, 6);
     color: rgb(236, 236, 226);
     display: flex;
+    justify-content:space-around;
+    align-items: center;
 }
 
 #icone{
@@ -21,5 +23,50 @@ body{
     height: 80px;
 }
 .imagem{
-    width: 80px;
+    width: 350px;
+    height: 40px;
+}
+
+#contatos{
+    position:fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    align-items: center;
+    background-color:rgb(122, 121, 121);
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+#formulario{
+    padding: 20px;
+    background-color:rgb(73, 73, 73);
+}
+
+#carrosseis{
+    width: 1000px;
+    height: 800px;
+}
+
+.carousel{
+    display: flex;
+    overflow: auto; 
+    scroll-snap-type: x mandatory;
+    width: 20%;
+    height: 20%;
+}
+
+.calça{
+    width: 210px;
+    height: 140px;
+}
+
+.carousel img{ 
+    width: 100%;
+    position: sticky;
+}
+
+#h1 {
+    font-family: 'Bold Poppins', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
