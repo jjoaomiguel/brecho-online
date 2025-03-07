@@ -84,7 +84,7 @@ img:hover {
 
 .flex{
     display: flex;
-    background-color: rgb(151, 149, 149);
+    background-color: rgb(182, 132, 6);
     color: aliceblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -93,4 +93,8 @@ img:hover {
 .imagemrodape  img{
     width: 150px;
     height: 150px;
+    border-radius: 50%;
+    border: 2px dashed white;
+
 }
+
