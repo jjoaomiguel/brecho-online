@@ -49,10 +49,14 @@ body{
 #carrosseis{
     width: 1050px;
     height: 950px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
 
 .carousel{
     display: flex;
+    
     overflow: auto; 
     scroll-snap-type: x mandatory;
     width: 20%;
@@ -85,4 +89,9 @@ img:hover {
     color: aliceblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
+}
+
+.imagemrodape  img{
+    width: 150px;
+    height: 150px;
 }
