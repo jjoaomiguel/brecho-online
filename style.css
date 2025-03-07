@@ -41,6 +41,7 @@ body{
 #formulario{
     padding: 20px;
     background-color:rgb(73, 73, 73);
+    text-align: left;
 }
 
 #carrosseis{
@@ -81,5 +82,14 @@ img:hover {
     background-color: rgb(151, 149, 149);
     color: aliceblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.imagemrodape  img{
+    width: 150px;
+    height: 150px;
     
+  
+
+
 }
