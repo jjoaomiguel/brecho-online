@@ -101,3 +101,13 @@ img:hover {
 
 }
 
+P{
+    margin-bottom:50px ;
+    padding:40px;
+}
+
+H3{
+    margin: 80px;
+    justify-content: space-between;
+
+}
