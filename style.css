@@ -91,11 +91,13 @@ img:hover {
 }
 
 .imagemrodape  img{
+    display: flex;
+    justify-content: space-between;
     width: 150px;
     height: 150px;
     border-radius: 50%;
     border: 2px dashed white;
-    padding: 20px;
+  
 
 }
 
