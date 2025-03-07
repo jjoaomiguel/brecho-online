@@ -18,6 +18,16 @@ body{
     align-items: center;
 }
 
+.bemvindoss {
+    margin: 50px;
+    padding: 2px;
+    border: 0px;
+    background-color: rgb(182, 132, 6);
+    font-family: 'Bold Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
 #icone{
     width: 80px;
     height: 80px;
@@ -54,7 +64,6 @@ body{
 
 .carousel{
     display: flex;
-    
     overflow: auto; 
     scroll-snap-type: x mandatory;
     width: 20%;
