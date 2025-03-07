@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color:rgb(255, 252, 252);
+    background-color:rgb(248, 248, 230);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     color: black;
@@ -33,15 +33,17 @@ body{
     right: 20px;
     padding: 10px;
     align-items: center;
-    background-color:rgb(122, 121, 121);
+    background-color:rgb(212, 153, 4);
     border-radius: 10px;
-    opacity: 0.8;
+    opacity: 0.7;
+    color: black;
 }
 
 #formulario{
     padding: 20px;
-    background-color:rgb(73, 73, 73);
+    background-color:rgb(182, 132, 6);
     text-align: left;
+    color: rgb(253, 253, 253);
 }
 
 #carrosseis{
@@ -86,7 +88,7 @@ img:hover {
     background-color: rgb(151, 149, 149);
     color: aliceblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    
 }
 
 .imagemrodape  img{
