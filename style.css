@@ -8,7 +8,6 @@ body{
 }
 
 #navbar{
-    margin: 15px;
     padding: 15px;
     border: 0PX;
     background-color:rgb(182, 132, 6);
@@ -121,7 +120,6 @@ H2{
 
 #Fim {
     background-color:aliceblue;
-    padding: 20px;
     color: rgb(182, 132, 6);
     text-align: center;
 }
@@ -133,8 +131,6 @@ H2{
 }
 
 .bemvindoss {
-    margin: 50px;
-    padding: 2px;
     border: 0px;
     background-color: rgb(182, 132, 6);
     font-family: 'Bold Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
