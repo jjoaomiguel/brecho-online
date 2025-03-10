@@ -52,7 +52,7 @@ body{
     height: 950px;
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
+    align-items: flex-end ;
 }
 
 .carousel{
@@ -107,12 +107,16 @@ img:hover {
 P{
     margin-bottom:50px ;
     padding:40px;
+   
 }
 
 H3{
     margin: 80px;
     justify-content: space-between;
+}
 
+H2{
+    margin: 80px; 
 }
 
 #Fim {
@@ -120,4 +124,10 @@ H3{
     padding: 20px;
     color: rgb(182, 132, 6);
     text-align: center;
+}
+
+#nos{
+    background-color:rgb(182, 132, 6);
+    color: aliceblue;
+    text-align: center;  
 }
