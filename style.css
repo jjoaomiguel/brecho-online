@@ -97,8 +97,6 @@ img:hover {
     height: 150px;
     border-radius: 50%;
     border: 2px dashed white;
-  
-
 }
 
 P{
@@ -110,4 +108,22 @@ H3{
     margin: 80px;
     justify-content: space-between;
 
+}
+
+.bemvindoss {
+    margin: 50px;
+    padding: 2px;
+    border: 0px;
+    background-color: rgb(182, 132, 6);
+    font-family: 'Bold Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#carrosseis{
+    width: 1050px;
+    height: 950px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
